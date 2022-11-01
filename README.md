@@ -17,7 +17,9 @@
 
 
 <h3>Demo video (when there is low lightning conditions)</h3>
-![low_light_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/106926948/199249201-a9a1bc56-7a3c-479b-a980-ab1f435ec009.gif)
+
+![low_light_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/106926948/199250361-c584b589-d080-4c27-90eb-d4399a44b2e8.gif)
+
 
 
 <h3>Demo video (when there is mid lightning conditions)</h3>
