@@ -23,6 +23,9 @@
 
 
 <h3>Demo video (when there is mid lightning conditions)</h3>
+![mid_light_AdobeExpress](https://user-images.githubusercontent.com/106926948/199252521-70bdef2b-1c9b-4294-b518-7c628d0572ad.gif)
+
+
 
 
 <h3>Demo video (for multiple face detection)</h3>
@@ -30,4 +33,7 @@
 ![multiple_detection_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/106926948/199248477-988b4a3f-f1ba-4414-b742-17185a5330fa.gif)
 
 <h3>Demo video (for unknown faces)</h3>
-![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/unknown_meta_data.mp4)
+
+![unknown_meta_data_AdobeExpress](https://user-images.githubusercontent.com/106926948/199254160-8dc2ffa8-4183-477d-be8e-3ec73032a079.gif)
+
+
