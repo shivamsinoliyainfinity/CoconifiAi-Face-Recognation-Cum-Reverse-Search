@@ -17,10 +17,11 @@
 
 
 <h3>Demo video (when there is low lightning conditions)</h3>
+![low_light_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/106926948/199249201-a9a1bc56-7a3c-479b-a980-ab1f435ec009.gif)
 
 
 <h3>Demo video (when there is mid lightning conditions)</h3>
-![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/mid_light.mp4)
+
 
 <h3>Demo video (for multiple face detection)</h3>
 
