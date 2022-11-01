@@ -9,7 +9,7 @@
     <li><strong>This model can work on any lightning condition:-</strong>For this feature we used haar's cascade model. First it convert an RGB image into a low light binary image and constructs arrow from one bright spot to another bright spot which makes it independent of lightning condition.</li>
 </ul>
 
-![deepface](https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png)
+![deepface](https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png =20*20)
 <h3>Demo video (when there is low lightning conditions)</h3>
 ![](https://github.com/shivamsinoliyainfinity/CoconifiAi-Face-Recognation-Cum-Reverse-Search/blob/84e1a9653de244973ed2ddeae5f37567ca943f36/demo/low_light.mov)
 
