@@ -22,6 +22,8 @@
 
 <h3>Demo video (when there is mid lightning conditions)</h3>
 ![mid_light_AdobeExpress](https://user-images.githubusercontent.com/106926948/199252521-70bdef2b-1c9b-4294-b518-7c628d0572ad.gif)
+![mid_light_AdobeExpress](https://user-images.githubusercontent.com/106926948/199256529-2489da3e-d392-4bb5-aa44-77197ab8783f.gif)
+
 
 <h3>Demo video (for multiple face detection)</h3>
 
