@@ -29,6 +29,6 @@
 
 <h3>Demo video (for unknown faces)</h3>
 
-![unknown_meta_data_AdobeExpress](https://user-images.githubusercontent.com/106926948/199254160-8dc2ffa8-4183-477d-be8e-3ec73032a079.gif)
+![unknown_meta_data_AdobeExpress](https://user-images.githubusercontent.com/106926948/199254160-8dc2ffa8-4183-477d-be8e-3ec73032a079.gif){width="560" height="315"}
 
 
