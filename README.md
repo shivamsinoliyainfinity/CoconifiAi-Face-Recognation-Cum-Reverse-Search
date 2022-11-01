@@ -20,13 +20,8 @@
 
 ![low_light_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/106926948/199250361-c584b589-d080-4c27-90eb-d4399a44b2e8.gif)
 
-
-
 <h3>Demo video (when there is mid lightning conditions)</h3>
 ![mid_light_AdobeExpress](https://user-images.githubusercontent.com/106926948/199252521-70bdef2b-1c9b-4294-b518-7c628d0572ad.gif)
-
-
-
 
 <h3>Demo video (for multiple face detection)</h3>
 
